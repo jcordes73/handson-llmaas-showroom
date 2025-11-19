@@ -310,6 +310,16 @@ Once logged in, you can:
 * **Test AI Capabilities**: Upload documents, ask questions, generate code, or create images
 * **Observe the Simplicity**: Notice how you didn't need to configure API endpoints, manage credentials, or set up infrastructure
 
+If not done already as a first step create a *Data Science Project* with the name {user}-parasol-ai by clicking on the `Create project` folder icon und *My Projects*
+
+[.bordershadow]
+image:03/01-create_project_1.png[width="100%"]
+
+and provide a name {user}-parasol-ai and hit `Create`
+
+[.bordershadow]
+image:03/01-create_project_2.png[width="100%"]
+
 TIP: When creating a workbench, the platform automatically provisions your MaaS credentials and configures all model endpoints. The entire process takes just a few clicks!
 
 Take a few minutes to experiment with the platform. This hands-on experience will help you understand how Parasol AI Studio democratizes access to AI capabilities across your organization.
